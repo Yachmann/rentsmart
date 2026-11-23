@@ -70,8 +70,7 @@ rentsmart/
 │   ├── exportador_csv.py       # ExportadorCSV
 │   └── interface.py            # InterfaceConsole (entradas e validação)
 ├── tests/test_regras.py        # testes automatizados
-├── exemplos/                   # CSV de exemplo gerado pelo sistema
-└── docs/                       # fluxograma e diagrama de classes
+└── exemplos/                   # CSV de exemplo gerado pelo sistema
 ```
 
 ## Formato do CSV
